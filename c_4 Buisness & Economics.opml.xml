@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Sat, 30 Aug 2025 10:57:48 +0000</dateCreated>
+  </head>
+  <body>
+    <outline text="Buisness &amp; Economics">
+      <outline text="Economic Times" type="rss" xmlUrl="https://economictimes.indiatimes.com/rssfeedsdefault.cms" htmlUrl="https://economictimes.indiatimes.com/rssfeedsdefault.cms"/>
+      <outline text="Forbes - Business" type="rss" xmlUrl="https://www.forbes.com/business/feed/" htmlUrl="https://www.forbes.com/business/feed/"/>
+      <outline text="Fortune | FORTUNE" type="rss" xmlUrl="https://fortune.com/feed/fortune-feeds/?id=3230629" htmlUrl="https://fortune.com/feed/fortune-feeds/?id=3230629"/>
+      <outline text="HBR IdeaCast" type="rss" xmlUrl="http://feeds.harvardbusiness.org/harvardbusiness/ideacast" htmlUrl="http://feeds.harvardbusiness.org/harvardbusiness/ideacast"/>
+      <outline text="Startup Stories - Mixergy" type="rss" xmlUrl="https://feeds.feedburner.com/Mixergy-main-podcast" htmlUrl="https://feeds.feedburner.com/Mixergy-main-podcast"/>
+      <outline text="US Top News and Analysis" type="rss" xmlUrl="https://www.cnbc.com/id/100003114/device/rss/rss.html" htmlUrl="https://www.cnbc.com/id/100003114/device/rss/rss.html"/>
+      <outline text="Yahoo Finance" type="rss" xmlUrl="https://finance.yahoo.com/news/rssindex" htmlUrl="https://finance.yahoo.com/news/rssindex"/>
+    </outline>
+  </body>
+</opml>

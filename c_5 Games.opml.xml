@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Sat, 30 Aug 2025 10:58:03 +0000</dateCreated>
+  </head>
+  <body>
+    <outline text="Games">
+      <outline text="Eurogamer.net Latest Articles Feed" type="rss" xmlUrl="https://www.eurogamer.net/feed" htmlUrl="https://www.eurogamer.net/?format=rss"/>
+      <outline text="GameSpot - All Content" type="rss" xmlUrl="https://www.gamespot.com/feeds/mashup/" htmlUrl="https://www.gamespot.com/feeds/mashup/"/>
+      <outline text="IGN Articles" type="rss" xmlUrl="https://www.ign.com/rss/articles/feed?tags=games" htmlUrl="https://www.ign.com/articles"/>
+      <outline text="Indie Games Plus" type="rss" xmlUrl="https://indiegamesplus.com/feed/" htmlUrl="https://indiegamesplus.com/feed"/>
+      <outline text="Kotaku" type="rss" xmlUrl="https://kotaku.com/feed" htmlUrl="https://kotaku.com/rss"/>
+      <outline text="Polygon" type="rss" xmlUrl="https://www.polygon.com/feed/" htmlUrl="https://www.polygon.com/rss/index.xml"/>
+      <outline text="Project Zomboid" type="rss" xmlUrl="https://projectzomboid.com/blog/feed/" htmlUrl="https://projectzomboid.com/blog/feed/"/>
+      <outline text="Rock, Paper, Shotgun" type="rss" xmlUrl="https://feeds.feedburner.com/RockPaperShotgun" htmlUrl="https://feeds.feedburner.com/RockPaperShotgun"/>
+      <outline text="Steam RSS News Feed" type="rss" xmlUrl="https://store.steampowered.com/feeds/news.xml" htmlUrl="https://store.steampowered.com/feeds/news.xml"/>
+      <outline text="The Ancient Gaming Noob" type="rss" xmlUrl="http://feeds.feedburner.com/TheAncientGamingNoob" htmlUrl="http://feeds.feedburner.com/TheAncientGamingNoob"/>
+      <outline text="The Escapist" type="rss" xmlUrl="https://www.escapistmagazine.com/feed/" htmlUrl="https://www.escapistmagazine.com/v2/feed/"/>
+    </outline>
+  </body>
+</opml>

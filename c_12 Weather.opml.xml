@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Sat, 30 Aug 2025 10:58:35 +0000</dateCreated>
+  </head>
+  <body>
+    <outline text="Weather">
+      <outline text="Forskningsnyheter" type="rss" xmlUrl="https://www.smhi.se/4.55d446f91937861d43d481c/12.55d446f91937861d43d49d9.portlet?state=rss&amp;sv.contenttype=text/xml;charset=UTF-8" htmlUrl="https://www.smhi.se/rss/forskningsnyheter"/>
+      <outline text="Latest Weather News on Fox Weather" type="rss" xmlUrl="https://moxie.foxweather.com/google-publisher/latest.xml" htmlUrl="https://moxie.foxweather.com/google-publisher/latest.xml"/>
+      <outline text="Learn About Weather with Fox Weather" type="rss" xmlUrl="https://moxie.foxweather.com/google-publisher/learn.xml" htmlUrl="https://moxie.foxweather.com/google-publisher/learn.xml"/>
+      <outline text="Månadens väder och vatten" type="rss" xmlUrl="https://www.smhi.se/4.55d446f91937861d43d481c/12.55d446f91937861d43d49cd.portlet?state=rss&amp;sv.contenttype=text/xml;charset=UTF-8" htmlUrl="https://www.smhi.se/rss/manadens-vader-och-vatten"/>
+      <outline text="Nyheter från SMHI" type="rss" xmlUrl="https://www.smhi.se/4.55d446f91937861d43d481c/12.55d446f91937861d43d4830.portlet?state=rss&amp;sv.contenttype=text/xml;charset=UTF-8" htmlUrl="https://www.smhi.se/rss/nyheter-fran-smhi"/>
+      <outline text="SMHI-Bloggen" type="rss" xmlUrl="https://www.smhi.se/4.4cdca89f195b3c486e54981/12.4cdca89f195b3c486e5499f.portlet?state=rss&amp;sv.contenttype=text/xml;charset=UTF-8" htmlUrl="https://www.smhi.se/rss/smhi-bloggen"/>
+      <outline text="The Latest Earth &amp; Space News on Fox Weather" type="rss" xmlUrl="https://moxie.foxweather.com/google-publisher/earth-space.xml" htmlUrl="https://moxie.foxweather.com/google-publisher/earth-space.xml"/>
+    </outline>
+  </body>
+</opml>

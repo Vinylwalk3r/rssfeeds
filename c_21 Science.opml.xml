@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Sat, 30 Aug 2025 10:58:21 +0000</dateCreated>
+  </head>
+  <body>
+    <outline text="Science">
+      <outline text="BBC News" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/science_and_environment/rss.xml" htmlUrl="https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"/>
+      <outline text="FlowingData" type="rss" xmlUrl="https://flowingdata.com/feed" htmlUrl="https://flowingdata.com/feed"/>
+      <outline text="Latest Science News -- ScienceDaily" type="rss" xmlUrl="https://www.sciencedaily.com/rss/all.xml" htmlUrl="https://www.sciencedaily.com/rss/all.xml"/>
+      <outline text="New York Times - Science" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Science.xml" htmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Science.xml"/>
+      <outline text="Phys.org - latest science and technology news stories" type="rss" xmlUrl="https://phys.org/rss-feed/" htmlUrl="https://phys.org/rss-feed/"/>
+      <outline text="Science" type="rss" xmlUrl="https://gizmodo.com/tag/science/feed" htmlUrl="https://gizmodo.com/tag/science/feed"/>
+      <outline text="Science Latest" type="rss" xmlUrl="https://www.wired.com/feed/category/science/latest/rss" htmlUrl="https://www.wired.com/feed/category/science/latest/rss"/>
+      <outline text="Scientific American Content: Global" type="rss" xmlUrl="http://rss.sciam.com/ScientificAmerican-Global" htmlUrl="http://rss.sciam.com/ScientificAmerican-Global"/>
+      <outline text="TED Talks Daily (SD video)" type="rss" xmlUrl="https://feeds.acast.com/public/shows/67587e77c705e441797aff96" htmlUrl="https://pa.tedcdn.com/feeds/talks.rss"/>
+    </outline>
+  </body>
+</opml>

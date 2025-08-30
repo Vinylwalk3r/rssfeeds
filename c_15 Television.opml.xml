@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Sat, 30 Aug 2025 10:58:11 +0000</dateCreated>
+  </head>
+  <body>
+    <outline text="Television">
+      <outline text="the TV addict" type="rss" xmlUrl="https://feeds.feedburner.com/thetvaddict/AXob" htmlUrl="https://feeds.feedburner.com/thetvaddict/AXob"/>
+      <outline text="TV" type="rss" xmlUrl="https://bleedingcool.com/tv/feed/" htmlUrl="https://bleedingcool.com/tv/feed/"/>
+      <outline text="TV Fanatic" type="rss" xmlUrl="https://www.tvfanatic.com/feed/" htmlUrl="https://www.tvfanatic.com/feed/"/>
+      <outline text="TVLine" type="rss" xmlUrl="https://tvline.com/feed/" htmlUrl="https://tvline.com/feed/"/>
+    </outline>
+  </body>
+</opml>

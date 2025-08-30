@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Sat, 30 Aug 2025 10:58:14 +0000</dateCreated>
+  </head>
+  <body>
+    <outline text="Tech">
+      <outline text="Ars Technica - All content" type="rss" xmlUrl="https://feeds.feedburner.com/arstechnica/index" htmlUrl="https://feeds.feedburner.com/arstechnica/index"/>
+      <outline text="Blog Feed" type="rss" xmlUrl="https://obsproject.com/blog/rss" htmlUrl="https://obsproject.com/blog/rss"/>
+      <outline text="Docker" type="rss" xmlUrl="https://www.docker.com/feed/" htmlUrl="https://www.docker.com/feed/"/>
+      <outline text="Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics" type="rss" xmlUrl="https://www.engadget.com/rss.xml" htmlUrl="https://www.engadget.com/rss.xml"/>
+      <outline text="Gizmodo" type="rss" xmlUrl="https://gizmodo.com/feed" htmlUrl="https://gizmodo.com/feed"/>
+      <outline text="Hacker News" type="rss" xmlUrl="https://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/rss"/>
+      <outline text="How-To Geek" type="rss" xmlUrl="https://www.howtogeek.com/feed/" htmlUrl="https://www.howtogeek.com/feed"/>
+      <outline text="Lifehacker" type="rss" xmlUrl="https://lifehacker.com/feed/rss" htmlUrl="https://lifehacker.com/feed/rss"/>
+      <outline text="Malwarebytes" type="rss" xmlUrl="https://www.malwarebytes.com/blog/feed/index.xml" htmlUrl="https://www.malwarebytes.com/"/>
+      <outline text="Mashable" type="rss" xmlUrl="http://feeds.mashable.com/Mashable" htmlUrl="http://feeds.mashable.com/Mashable"/>
+      <outline text="PCforAlla" type="rss" xmlUrl="https://www.pcforalla.se/feed" htmlUrl="https://www.pcforalla.se/feed"/>
+      <outline text="Slashdot" type="rss" xmlUrl="https://rss.slashdot.org/Slashdot/slashdotMain" htmlUrl="https://rss.slashdot.org/Slashdot/slashdotMain"/>
+      <outline text="The Verge" type="rss" xmlUrl="https://www.theverge.com/rss/index.xml" htmlUrl="https://www.theverge.com/rss/index.xml"/>
+    </outline>
+  </body>
+</opml>

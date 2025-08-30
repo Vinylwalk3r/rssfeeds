@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Sat, 30 Aug 2025 10:58:23 +0000</dateCreated>
+  </head>
+  <body>
+    <outline text="Photography">
+      <outline text="121clicks.com" type="rss" xmlUrl="https://121clicks.com/feed/" htmlUrl="https://121clicks.com/feed/"/>
+      <outline text="500px" type="rss" xmlUrl="https://iso.500px.com/feed/" htmlUrl="https://iso.500px.com/feed/"/>
+      <outline text="Admiring Light" type="rss" xmlUrl="https://admiringlight.com/blog/feed/" htmlUrl="https://admiringlight.com/blog/feed/"/>
+      <outline text="ADM Wedding Photos" type="rss" xmlUrl="https://www.abmweddingphotos.com/feed/" htmlUrl="https://www.abmweddingphotos.com/feed/"/>
+      <outline text="Advancing Your Photography" type="rss" xmlUrl="https://www.silberstudios.com/feed/" htmlUrl="https://www.silberstudios.com/feed/"/>
+      <outline text="A Photo Editor" type="rss" xmlUrl="https://www.aphotoeditor.com/feed/" htmlUrl="https://www.aphotoeditor.com/feed/"/>
+      <outline text="A Photography Blog - Thomas Fitzgerald Photography" type="rss" xmlUrl="https://blog.thomasfitzgeraldphotography.com/blog?format=RSS" htmlUrl="https://blog.thomasfitzgeraldphotography.com/blog?format=RSS"/>
+      <outline text="Articles: Digital Photography Review (dpreview.com)" type="rss" xmlUrl="https://www.dpreview.com/feeds/news.xml" htmlUrl="https://www.dpreview.com/feeds/news.xml"/>
+      <outline text="Bee Happy Graphics" type="rss" xmlUrl="https://www.beehappygraphics.com/blog/feed/" htmlUrl="https://www.beehappygraphics.com/blog/feed/"/>
+      <outline text="Behind the Shutter" type="rss" xmlUrl="https://www.behindtheshutter.com/feed/" htmlUrl="https://www.behindtheshutter.com/feed/"/>
+      <outline text="BLOG - GRADDY PHOTOGRAPHY" type="rss" xmlUrl="https://graddyphotography.com/blog?format=rss" htmlUrl="https://graddyphotography.com/blog?format=rss"/>
+      <outline text="Blog - Jake Horn Photography" type="rss" xmlUrl="https://jakehornphotography.com/blog?format=rss" htmlUrl="https://jakehornphotography.com/blog?format=rss"/>
+      <outline text="blog - KAREN WALROND" type="rss" xmlUrl="https://www.chookooloonks.com/blog?format=rss" htmlUrl="https://www.chookooloonks.com/blog?format=rss"/>
+      <outline text="Blog - Love Me Do Photography" type="rss" xmlUrl="https://www.lovemedophotography.com/blog?format=RSS" htmlUrl="https://www.lovemedophotography.com/blog?format=RSS"/>
+      <outline text="Blog - Mikko Lagerstedt" type="rss" xmlUrl="https://mikkolagerstedt.com/blog?format=rss" htmlUrl="https://mikkolagerstedt.com/blog?format=rss"/>
+      <outline text="Blog - Rick Sammon Photography" type="rss" xmlUrl="https://ricksammon.com/blog2?format=rss" htmlUrl="https://ricksammon.com/blog2?format=rss"/>
+      <outline text="Blog for professional photography and drone services in California - Jason Collin Photography" type="rss" xmlUrl="https://jasoncollinphotography.com/blog?format=rss" htmlUrl="https://jasoncollinphotography.com/blog?format=rss"/>
+      <outline text="Contrastly" type="rss" xmlUrl="https://contrastly.com/feed/" htmlUrl="https://contrastly.com/feed/"/>
+      <outline text="Dan Baileys Adventure Photography Blog" type="rss" xmlUrl="https://danbaileyphoto.com/blog/feed/" htmlUrl="https://danbaileyphoto.com/blog/feed/"/>
+      <outline text="Daniela Cardili" type="rss" xmlUrl="https://danielacardili.com/feed/" htmlUrl="https://danielacardili.com/feed/"/>
+      <outline text="David duChemin – Photographer, Author, Creative Instigator" type="rss" xmlUrl="https://davidduchemin.com/feed/" htmlUrl="https://davidduchemin.com/feed/"/>
+      <outline text="Digital Photography School" type="rss" xmlUrl="https://digital-photography-school.com/feed/" htmlUrl="https://digital-photography-school.com/feed/"/>
+      <outline text="DIYPhotography.net - Your one stop shop for everything photo-video" type="rss" xmlUrl="https://feeds.feedburner.com/Diyphotographynet" htmlUrl="https://feeds.feedburner.com/Diyphotographynet"/>
+      <outline text="DPG RSS" type="rss" xmlUrl="https://www.divephotoguide.com/rss" htmlUrl="https://www.divephotoguide.com/rss"/>
+      <outline text="Edin Chavez Photography" type="rss" xmlUrl="https://blog.edinchavez.com/feed/" htmlUrl="https://blog.edinchavez.com/feed/"/>
+      <outline text="Feature Shoot" type="rss" xmlUrl="https://feeds.feedburner.com/FeatureShoot" htmlUrl="https://feeds.feedburner.com/FeatureShoot"/>
+      <outline text="Flytographer" type="rss" xmlUrl="https://www.flytographer.com/feed/" htmlUrl="https://www.flytographer.com/feed/"/>
+      <outline text="Fstoppers" type="rss" xmlUrl="https://fstoppers.com/feed" htmlUrl="https://fstoppers.com/feed"/>
+      <outline text="GottaPics" type="rss" xmlUrl="https://gottapics.com/feed/" htmlUrl="https://gottapics.com/feed/"/>
+      <outline text="Hoffer Photography: Philadelphia Wedding Photographers | Authentic and Elevated" type="rss" xmlUrl="https://hofferphotography.com/feed/" htmlUrl="https://hofferphotography.com/feed/"/>
+      <outline text="INSPIRED EYE" type="rss" xmlUrl="https://www.theinspiredeye.net/feed/" htmlUrl="https://www.theinspiredeye.net/feed/"/>
+      <outline text="Jamie Delaine Blog" type="rss" xmlUrl="https://jamiedelaineblog.com/feed/" htmlUrl="https://jamiedelaineblog.com/feed/"/>
+      <outline text="Jeff Cables Blog" type="rss" xmlUrl="https://blog.jeffcable.com/feeds/posts/default?alt=rss" htmlUrl="https://blog.jeffcable.com/feeds/posts/default?alt=rss"/>
+      <outline text="Kept Light Photography" type="rss" xmlUrl="https://www.keptlight.com/feed/" htmlUrl="https://www.keptlight.com/feed/"/>
+      <outline text="Lets Talk Photography" type="rss" xmlUrl="https://www.belindajiao.com/blog?format=rss" htmlUrl="https://www.belindajiao.com/blog?format=rss"/>
+      <outline text="Lightroom, Photoshop and Photography Blog" type="rss" xmlUrl="https://www.beart-presets.com/blog?format=RSS" htmlUrl="https://www.beart-presets.com/blog?format=RSS"/>
+      <outline text="Lightroom Killer Tips" type="rss" xmlUrl="https://lightroomkillertips.com/feed/" htmlUrl="https://lightroomkillertips.com/feed/"/>
+      <outline text="Light Stalking" type="rss" xmlUrl="https://www.lightstalking.com/feed/" htmlUrl="https://www.lightstalking.com/feed/"/>
+      <outline text="Linnae Designs" type="rss" xmlUrl="https://linnaedesigns.com/feed/" htmlUrl="https://linnaedesigns.com/feed/"/>
+      <outline text="Los Angeles | Columbus Editorial, Music, Commercial Photographer" type="rss" xmlUrl="https://www.nickfancher.com/blog?format=rss" htmlUrl="https://www.nickfancher.com/blog?format=rss"/>
+      <outline text="Louis Dallara Photography" type="rss" xmlUrl="https://www.louisdallaraphotography.com/feed/" htmlUrl="https://www.louisdallaraphotography.com/feed/"/>
+      <outline text="Michael Frye Photography" type="rss" xmlUrl="https://www.michaelfrye.com/feed/" htmlUrl="https://www.michaelfrye.com/feed/"/>
+      <outline text="Momentary Awe" type="rss" xmlUrl="https://momentaryawe.com/feed/" htmlUrl="https://www.momentaryawe.com/feed/"/>
+      <outline text="NANPA" type="rss" xmlUrl="https://nanpa.org/feed/" htmlUrl="https://nanpa.org/feed/"/>
+      <outline text="One Big Photo" type="rss" xmlUrl="https://feeds.feedburner.com/OneBigPhoto" htmlUrl="https://feeds.feedburner.com/OneBigPhoto"/>
+      <outline text="Orange County Wedding Photographer Los Angeles" type="rss" xmlUrl="https://www.linandjirsablog.com/feed/" htmlUrl="https://www.linandjirsablog.com/feed/"/>
+      <outline text="PetaPixel" type="rss" xmlUrl="https://petapixel.com/feed/" htmlUrl="https://petapixel.com/feed/"/>
+      <outline text="phillipreeve.net" type="rss" xmlUrl="https://phillipreeve.net/blog/feed/" htmlUrl="https://phillipreeve.net/blog/feed/"/>
+      <outline text="photo &amp;amp; video – CreativeLive Blog" type="rss" xmlUrl="https://www.creativelive.com/blog/category/topics/photo-video/feed/" htmlUrl="https://www.creativelive.com/blog/category/topics/photo-video/feed/"/>
+      <outline text="photo-eye | BLOG" type="rss" xmlUrl="https://blog.photoeye.com/feeds/posts/default" htmlUrl="https://blog.photoeye.com/feeds/posts/default"/>
+      <outline text="Photodoto" type="rss" xmlUrl="https://www.photodoto.com/feed/" htmlUrl="https://www.photodoto.com/feed/"/>
+      <outline text="Photofocus" type="rss" xmlUrl="https://photofocus.com/feed/" htmlUrl="https://photofocus.com/feed/"/>
+      <outline text="Photofocus" type="rss" xmlUrl="https://feeds.feedburner.com/PhotofocusBlog" htmlUrl="https://feeds.feedburner.com/PhotofocusBlog"/>
+      <outline text="Photogpedia" type="rss" xmlUrl="https://photogpedia.com/feed/" htmlUrl="https://photogpedia.com/feed/"/>
+      <outline text="Photographer Spotlight – Flickr Blog" type="rss" xmlUrl="https://blog.flickr.net/category/photographer-spotlight/feed" htmlUrl="https://blog.flickr.net/category/photographer-spotlight/feed"/>
+      <outline text="Photography Bay" type="rss" xmlUrl="https://feeds.feedburner.com/PhotographyBay" htmlUrl="https://feeds.feedburner.com/PhotographyBay"/>
+      <outline text="Photography Life" type="rss" xmlUrl="https://photographylife.com/feed" htmlUrl="https://photographylife.com/feed"/>
+      <outline text="Photo Tips, Creative Photography + Travel Guides – The Wandering Lens" type="rss" xmlUrl="https://www.thewanderinglens.com/feed/" htmlUrl="https://www.thewanderinglens.com/feed/"/>
+      <outline text="Reviews (latest): Digital Photography Review (dpreview.com)" type="rss" xmlUrl="https://www.dpreview.com/feeds/reviews.xml" htmlUrl="https://www.dpreview.com/feeds/reviews.xml"/>
+      <outline text="Scott Wyden Kivowitz" type="rss" xmlUrl="https://scottwyden.com/feed/" htmlUrl="https://scottwyden.com/feed/"/>
+      <outline text="Shotkit" type="rss" xmlUrl="https://shotkit.com/feed/" htmlUrl="https://shotkit.com/feed/"/>
+      <outline text="Shutterbug" type="rss" xmlUrl="https://www.shutterbug.com/rss.xml" htmlUrl="https://www.shutterbug.com/rss.xml"/>
+      <outline text="SkipCohenUniversity - SCU Blog" type="rss" xmlUrl="https://www.skipcohenuniversity.com/1/feed" htmlUrl="https://www.skipcohenuniversity.com/1/feed"/>
+      <outline text="Skylum Blog - Latest Updates and Photo Industry News" type="rss" xmlUrl="https://skylum.com/blog/rss" htmlUrl="https://skylum.com/blog/rss"/>
+      <outline text="Street Photography Magazine" type="rss" xmlUrl="https://streetphotographymagazine.com/feed/" htmlUrl="https://streetphotographymagazine.com/"/>
+      <outline text="Stuck in Customs" type="rss" xmlUrl="https://stuckincustoms.com/feed/" htmlUrl="https://stuckincustoms.com/feed/"/>
+      <outline text="The Boston Globe" type="rss" xmlUrl="https://www.bostonglobe.com/arc/outboundfeeds/rss/section/photo/bigpicture/" htmlUrl="https://www.bostonglobe.com/arc/outboundfeeds/rss/section/photo/bigpicture/"/>
+      <outline text="The Leica camera Blog" type="rss" xmlUrl="https://leica-camera.blog/feed/" htmlUrl="https://leica-camera.blog/feed/"/>
+      <outline text="The Phoblographer" type="rss" xmlUrl="https://www.thephoblographer.com/feed/" htmlUrl="https://www.thephoblographer.com/feed/"/>
+      <outline text="The Photo Argus" type="rss" xmlUrl="https://www.thephotoargus.com/feed/" htmlUrl="https://www.thephotoargus.com/feed/"/>
+      <outline text="Tiffinbox" type="rss" xmlUrl="https://www.tiffinbox.org/feed/" htmlUrl="https://www.tiffinbox.org/feed/"/>
+      <outline text="V-Flat World - Behind The Scenes" type="rss" xmlUrl="https://vflatworld.com/blogs/behind-the-scenes.atom" htmlUrl="https://vflatworld.com/blogs/behind-the-scenes.atom"/>
+      <outline text="Vernon Chalmers Photography" type="rss" xmlUrl="https://www.vernonchalmers.photography/feeds/posts/default" htmlUrl="https://www.vernonchalmers.photography/feeds/posts/default"/>
+      <outline text="Wetpixel.com" type="rss" xmlUrl="https://wetpixel.com/feeds" htmlUrl="https://wetpixel.com/feeds"/>
+      <outline text="William Beem" type="rss" xmlUrl="https://williambeem.com/feed/" htmlUrl="https://williambeem.com/feed/"/>
+      <outline text="Zac Wolf Photography - Blog - Zac Wolf Photography - New England + Orlando Wedding Photographer" type="rss" xmlUrl="https://www.zacxwolf.com/home?format=RSS" htmlUrl="https://www.zacxwolf.com/home?format=RSS"/>
+    </outline>
+  </body>
+</opml>

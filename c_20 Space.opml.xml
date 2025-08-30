@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Sat, 30 Aug 2025 10:58:18 +0000</dateCreated>
+  </head>
+  <body>
+    <outline text="Space">
+      <outline text="APOD" type="rss" xmlUrl="https://apod.com/feed.rss" htmlUrl="https://apod.com/feed.rss"/>
+      <outline text="Latest from Space.com" type="rss" xmlUrl="https://www.space.com/feeds/all" htmlUrl="https://www.space.com/feeds/all"/>
+      <outline text="NASA" type="rss" xmlUrl="https://www.nasa.gov/news-release/feed/" htmlUrl="https://www.nasa.gov/news-release/feed/"/>
+      <outline text="New Scientist - Space" type="rss" xmlUrl="https://www.newscientist.com/subject/space/feed/" htmlUrl="https://www.newscientist.com/subject/space/feed/"/>
+      <outline text="SETI@home: News" type="rss" xmlUrl="https://setiathome.berkeley.edu/" htmlUrl="https://setiathome.berkeley.edu/"/>
+      <outline text="Space | The Guardian" type="rss" xmlUrl="https://www.theguardian.com/science/space/rss" htmlUrl="https://www.theguardian.com/science/space/rss"/>
+    </outline>
+  </body>
+</opml>

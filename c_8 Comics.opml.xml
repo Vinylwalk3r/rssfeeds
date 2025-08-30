@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Sat, 30 Aug 2025 10:57:52 +0000</dateCreated>
+  </head>
+  <body>
+    <outline text="Comics">
+      <outline text="CRYPTID CLUB" type="rss" xmlUrl="https://cryptidclubcomic.com/rss" htmlUrl="https://cryptidclubcomic.com/rss"/>
+      <outline text="Everblue" type="rss" xmlUrl="https://www.everblue-comic.com/comic/rss/" htmlUrl="https://www.everblue-comic.com/"/>
+      <outline text="Foxy Flavored Cookie" type="rss" xmlUrl="https://pobrepucho.thecomicseries.com/rss/" htmlUrl="https://pobrepucho.thecomicseries.com/"/>
+      <outline text="Paprika" type="rss" xmlUrl="https://paprika.kemono.cafe/feed/" htmlUrl="https://paprika.kemono.cafe/"/>
+      <outline text="Rascals" type="rss" xmlUrl="https://rascals.kemono.cafe/feed/" htmlUrl="https://rascals.kemono.cafe/"/>
+      <outline text="Tina of the South" type="rss" xmlUrl="https://tots.kemono.cafe/feed/" htmlUrl="https://tots.kemono.cafe/"/>
+      <outline text="Wukrii" type="rss" xmlUrl="https://www.wukrii.com/rss" htmlUrl="https://www.wukrii.com/rss"/>
+      <outline text="xkcd.com" type="rss" xmlUrl="https://xkcd.com/atom.xml" htmlUrl="https://xkcd.com/atom.xml"/>
+      <outline text="Yosh! Saga" type="rss" xmlUrl="https://www.yoshsaga.com/feed/" htmlUrl="https://www.yoshsaga.com/"/>
+    </outline>
+  </body>
+</opml>

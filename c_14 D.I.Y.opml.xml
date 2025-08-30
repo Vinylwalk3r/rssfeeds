@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Sat, 30 Aug 2025 10:57:56 +0000</dateCreated>
+  </head>
+  <body>
+    <outline text="D.I.Y">
+      <outline text="A Beautiful Mess" type="rss" xmlUrl="https://abeautifulmess.com/feed/" htmlUrl="https://abeautifulmess.com/feed/"/>
+      <outline text="Blog – Hackaday" type="rss" xmlUrl="https://hackaday.com/blog/feed/" htmlUrl="https://hackaday.com/blog/feed/"/>
+      <outline text="How-To Geek" type="rss" xmlUrl="https://www.howtogeek.com/feed/" htmlUrl="https://www.howtogeek.com/feed/"/>
+      <outline text="MakeUseOf" type="rss" xmlUrl="https://www.makeuseof.com/feed/" htmlUrl="https://www.makeuseof.com/feed/"/>
+      <outline text="Oh Happy Day!" type="rss" xmlUrl="http://ohhappyday.com/feed/" htmlUrl="http://ohhappyday.com/feed/"/>
+      <outline text="WonderHowTo" type="rss" xmlUrl="https://www.wonderhowto.com/rss.xml" htmlUrl="https://www.wonderhowto.com/rss.xml"/>
+    </outline>
+  </body>
+</opml>

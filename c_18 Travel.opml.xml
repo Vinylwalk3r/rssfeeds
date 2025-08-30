@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Sat, 30 Aug 2025 10:58:08 +0000</dateCreated>
+  </head>
+  <body>
+    <outline text="Travel">
+      <outline text="Atlas Obscura - Latest Articles and Places" type="rss" xmlUrl="https://www.atlasobscura.com/feeds/latest" htmlUrl="https://www.atlasobscura.com/feeds/latest"/>
+      <outline text="Live Life Travel" type="rss" xmlUrl="https://www.livelifetravel.world/feed/" htmlUrl="https://www.livelifetravel.world/feed/"/>
+      <outline text="New York Times - Travel" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml" htmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml"/>
+      <outline text="Travel Blog -" type="rss" xmlUrl="https://www.nomadicmatt.com/travel-blog/feed/" htmlUrl="https://www.nomadicmatt.com/travel-blog/feed/"/>
+      <outline text="Travel | The Guardian" type="rss" xmlUrl="https://www.theguardian.com/uk/travel/rss" htmlUrl="https://www.theguardian.com/uk/travel/rss"/>
+    </outline>
+  </body>
+</opml>

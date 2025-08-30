@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Sat, 30 Aug 2025 10:58:06 +0000</dateCreated>
+  </head>
+  <body>
+    <outline text="Movies">
+      <outline text="/Film" type="rss" xmlUrl="https://feeds2.feedburner.com/slashfilm" htmlUrl="https://feeds2.feedburner.com/slashfilm"/>
+      <outline text="Ain It Cool News Feed" type="rss" xmlUrl="https://www.aintitcool.com/node/feed/" htmlUrl="https://www.aintitcool.com/node/feed/"/>
+      <outline text="ComingSoon.net – Movie Trailers, TV &amp; Streaming News, and More" type="rss" xmlUrl="https://www.comingsoon.net/feed" htmlUrl="https://www.comingsoon.net/feed"/>
+      <outline text="Deadline" type="rss" xmlUrl="https://deadline.com/feed/" htmlUrl="https://deadline.com/feed/"/>
+      <outline text="IndieWire" type="rss" xmlUrl="https://www.indiewire.com/feed/" htmlUrl="https://www.indiewire.com/feed"/>
+      <outline text="Movies" type="rss" xmlUrl="https://bleedingcool.com/movies/feed/" htmlUrl="https://www.bleedingcool.com/movies/feed/"/>
+      <outline text="Variety" type="rss" xmlUrl="https://variety.com/feed/" htmlUrl="https://variety.com/feed/"/>
+    </outline>
+  </body>
+</opml>

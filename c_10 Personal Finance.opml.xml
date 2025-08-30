@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Sat, 30 Aug 2025 10:58:26 +0000</dateCreated>
+  </head>
+  <body>
+    <outline text="Personal Finance">
+      <outline text="Afford Anything" type="rss" xmlUrl="https://affordanything.com/feed/" htmlUrl="https://affordanything.com/feed/"/>
+      <outline text="Budgets Are Sexy" type="rss" xmlUrl="https://feeds2.feedburner.com/budgetsaresexy" htmlUrl="https://feeds2.feedburner.com/budgetsaresexy"/>
+      <outline text="Börskollen – Börs- och ekonominyheter från alla perspektiv" type="rss" xmlUrl="https://www.borskollen.se/feed/nyheter" htmlUrl="https://www.borskollen.se/feed/nyheter"/>
+      <outline text="Financial Samurai" type="rss" xmlUrl="https://www.financialsamurai.com/feed/" htmlUrl="https://www.financialsamurai.com/feed/"/>
+      <outline text="Learn To Trade The Market" type="rss" xmlUrl="https://www.learntotradethemarket.com/feed" htmlUrl="https://www.learntotradethemarket.com/feed"/>
+      <outline text="Making Sense Of Cents" type="rss" xmlUrl="https://www.makingsenseofcents.com/feed" htmlUrl="https://www.makingsenseofcents.com/feed"/>
+      <outline text="Millennial Money" type="rss" xmlUrl="https://millennialmoney.com/feed/" htmlUrl="https://millennialmoney.com/feed/"/>
+      <outline text="Money Crashers" type="rss" xmlUrl="https://www.moneycrashers.com/feed/" htmlUrl="https://www.moneycrashers.com/feed/"/>
+    </outline>
+  </body>
+</opml>

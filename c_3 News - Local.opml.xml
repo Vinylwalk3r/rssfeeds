@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Sat, 30 Aug 2025 10:58:32 +0000</dateCreated>
+  </head>
+  <body>
+    <outline text="News - Local">
+      <outline text="ABC Nyheter" type="rss" xmlUrl="https://www.abcnyheter.se/feed/" htmlUrl="https://www.abcnyheter.se/feed/"/>
+      <outline text="Dagens industri" type="rss" xmlUrl="https://www.di.se/digital/rss" htmlUrl="http://digital.di.se/rss"/>
+      <outline text="DN.se - Dagens Nyheter" type="rss" xmlUrl="https://www.dn.se/rss/" htmlUrl="https://www.dn.se/rss/"/>
+      <outline text="Nyheter Idag" type="rss" xmlUrl="https://nyheteridag.se/feed/" htmlUrl="https://nyheteridag.se/feed/"/>
+      <outline text="Senaste nytt – nyheter från Aftonbladet" type="rss" xmlUrl="https://rss.aftonbladet.se/rss2/small/pages/sections/senastenytt/" htmlUrl="https://rss.aftonbladet.se/rss2/small/pages/sections/senastenytt/"/>
+      <outline text="SvD - Artiklar" type="rss" xmlUrl="https://www.svd.se/feed/articles.rss" htmlUrl="https://www.svd.se/feed/articles.rss"/>
+      <outline text="SVT Nyheter" type="rss" xmlUrl="https://www.svt.se/rss.xml" htmlUrl="https://www.svt.se/rss.xml"/>
+      <outline text="TV4 Nyheterna" type="rss" xmlUrl="https://www.tv4.se/rss" htmlUrl="https://www.tv4.se/rss"/>
+    </outline>
+  </body>
+</opml>

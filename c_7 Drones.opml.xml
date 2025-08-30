@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Sat, 30 Aug 2025 10:57:59 +0000</dateCreated>
+  </head>
+  <body>
+    <outline text="Drones">
+      <outline text="AEROMOTUS" type="rss" xmlUrl="https://www.aeromotus.com/feed/" htmlUrl="https://www.aeromotus.com/feed/"/>
+      <outline text="Best Drone for the Job" type="rss" xmlUrl="https://bestdroneforthejob.com/feed/" htmlUrl="https://bestdroneforthejob.com/feed/"/>
+      <outline text="Betaflight News" type="rss" xmlUrl="https://betaflight.com/blog/rss.xml" htmlUrl="https://betaflight.com/blog"/>
+      <outline text="Blogs - diydrones" type="rss" xmlUrl="https://diydrones.com/profiles/blogs/feed/all" htmlUrl="https://diydrones.com/profiles/blogs/feed/all"/>
+      <outline text="Delair" type="rss" xmlUrl="https://delair.aero/feed/" htmlUrl="https://delair.aero/feed/"/>
+      <outline text="Digital Horizons" type="rss" xmlUrl="https://learningrc.com/feed/" htmlUrl="https://learningrc.com/feed/"/>
+      <outline text="Drone Analyst" type="rss" xmlUrl="https://droneanalyst.com/feed" htmlUrl="https://droneanalyst.com/feed"/>
+      <outline text="Droneblog" type="rss" xmlUrl="https://www.droneblog.com/feed/" htmlUrl="https://www.droneblog.com/feed/"/>
+      <outline text="Drone Blogs – Drone Videos &amp;amp; Photos" type="rss" xmlUrl="https://dronevideos.com/category/drone-blogs/feed/" htmlUrl="https://dronevideos.com/category/drone-blogs/feed/"/>
+      <outline text="Drone Fishing Central" type="rss" xmlUrl="https://dronefishingcentral.com/feed/" htmlUrl="https://dronefishingcentral.com/feed/"/>
+      <outline text="Droneflyers.com" type="rss" xmlUrl="https://www.droneflyers.com/feed/" htmlUrl="https://www.droneflyers.com/feed/"/>
+      <outline text="dronegenuity" type="rss" xmlUrl="https://www.dronegenuity.com/feed/" htmlUrl="https://www.dronegenuity.com/feed/"/>
+      <outline text="DroneGuru" type="rss" xmlUrl="https://www.droneguru.net/feed/" htmlUrl="https://www.droneguru.net/feed/"/>
+      <outline text="Drone Laws" type="rss" xmlUrl="https://dronelawsblog.com/feed/" htmlUrl="https://dronelawsblog.com/feed/"/>
+      <outline text="DRONELIFE" type="rss" xmlUrl="https://dronelife.com/feed/" htmlUrl="https://dronelife.com/feed/"/>
+      <outline text="Dronemade" type="rss" xmlUrl="https://www.drone-made.com/blog-feed.xml" htmlUrl="https://www.drone-made.com/blog-feed.xml"/>
+      <outline text="Drone Nodes" type="rss" xmlUrl="https://dronenodes.com/feed/" htmlUrl="https://dronenodes.com/feed/"/>
+      <outline text="Drone Racing Life" type="rss" xmlUrl="https://racing.dronelife.com/feed/" htmlUrl="https://racing.dronelife.com/feed/"/>
+      <outline text="Drone Reviews" type="rss" xmlUrl="https://yourdronereviews.com/feed" htmlUrl="https://yourdronereviews.com/feed"/>
+      <outline text="DronesInsite" type="rss" xmlUrl="https://www.dronesinsite.com/feed/" htmlUrl="https://www.dronesinsite.com/feed/"/>
+      <outline text="Dronethusiast" type="rss" xmlUrl="https://www.dronethusiast.com/feed/" htmlUrl="https://www.dronethusiast.com/feed/"/>
+      <outline text="DroneXL.co" type="rss" xmlUrl="https://dronexl.co/feed/" htmlUrl="https://dronexl.co/feed/"/>
+      <outline text="DroneZon" type="rss" xmlUrl="https://www.dronezon.com/feed/" htmlUrl="https://www.dronezon.com/feed/"/>
+      <outline text="First Quadcopter" type="rss" xmlUrl="https://www.firstquadcopter.com/feed/" htmlUrl="https://www.firstquadcopter.com/feed/"/>
+      <outline text="How To Drones" type="rss" xmlUrl="https://howtodrones.com/feed/" htmlUrl="https://howtodrones.com/feed/"/>
+      <outline text="Job For Drones" type="rss" xmlUrl="http://www.jobfordrones.com/feed/" htmlUrl="http://www.jobfordrones.com/feed/"/>
+      <outline text="Oscar Liang" type="rss" xmlUrl="https://oscarliang.com/feed/" htmlUrl="https://oscarliang.com/feed/"/>
+      <outline text="Personal Drones" type="rss" xmlUrl="http://www.personal-drones.net/feed/" htmlUrl="http://www.personal-drones.net/feed/"/>
+      <outline text="Quadcopter Guide" type="rss" xmlUrl="https://www.quadcopterguide.com/feed/" htmlUrl="https://www.quadcopterguide.com/feed/"/>
+      <outline text="RotorDrone" type="rss" xmlUrl="https://www.rotordronepro.com/feed/" htmlUrl="https://www.rotordronepro.com/feed/"/>
+      <outline text="sUAS News" type="rss" xmlUrl="https://www.suasnews.com/feed/" htmlUrl="https://www.suasnews.com/feed/"/>
+      <outline text="The Drone Girl" type="rss" xmlUrl="https://www.thedronegirl.com/feed/" htmlUrl="https://www.thedronegirl.com/"/>
+      <outline text="The UAV Digest" type="rss" xmlUrl="https://theuavdigest.com/feed/" htmlUrl="https://theuavdigest.com/feed/"/>
+      <outline text="Volatus Unmanned Services" type="rss" xmlUrl="https://connexicore.com/feed/" htmlUrl="https://connexicore.com/feed/"/>
+    </outline>
+  </body>
+</opml>

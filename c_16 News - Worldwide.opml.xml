@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Sat, 30 Aug 2025 10:58:29 +0000</dateCreated>
+  </head>
+  <body>
+    <outline text="News - Worldwide">
+      <outline text=": World" type="rss" xmlUrl="https://globalnews.ca/world/feed/" htmlUrl="https://globalnews.ca/world/feed/"/>
+      <outline text="Al Jazeera – Breaking News, World News and Video from Al Jazeera" type="rss" xmlUrl="https://www.aljazeera.com/xml/rss/all.xml?PostingId=2007722144444234906" htmlUrl="https://www.aljazeera.com/xml/rss/all.xml?PostingId=2007722144444234906"/>
+      <outline text="Artiklar från Europaportalen.se" type="rss" xmlUrl="https://europaportalen.se/rss/artiklar" htmlUrl="https://europaportalen.se/rss/artiklar"/>
+      <outline text="Associated Press" type="rss" xmlUrl="https://feedx.net/rss/ap.xml" htmlUrl="https://feedx.net/rss/ap.xml"/>
+      <outline text="BBC News" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml" htmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml"/>
+      <outline text="Daily Express :: World Feed" type="rss" xmlUrl="https://www.express.co.uk/posts/rss/78/foreignnews" htmlUrl="https://www.express.co.uk/posts/rss/78/foreignnews"/>
+      <outline text="International: Top News And Analysis" type="rss" xmlUrl="https://www.cnbc.com/id/100727362/device/rss/rss.html" htmlUrl="https://www.cnbc.com/id/100727362/device/rss/rss.html"/>
+      <outline text="Latest articles - The Japan Times" type="rss" xmlUrl="https://www.japantimes.co.jp/feed/" htmlUrl="https://www.japantimes.co.jp/feed/"/>
+      <outline text="MSNBC Top Stories" type="rss" xmlUrl="https://feeds.nbcnews.com/msnbc/public/news" htmlUrl="https://feeds.nbcnews.com/msnbc/public/news"/>
+      <outline text="NDTV News Search Records Found 1000" type="rss" xmlUrl="http://feeds.feedburner.com/ndtvnews-world-news" htmlUrl="http://feeds.feedburner.com/ndtvnews-world-news"/>
+      <outline text="News – Metro" type="rss" xmlUrl="https://metro.co.uk/news/feed/" htmlUrl="https://metro.co.uk/news/feed/"/>
+      <outline text="New York Times - Top Stories" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" htmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"/>
+      <outline text="Nikkei Asia" type="rss" xmlUrl="https://asia.nikkei.com/rss/feed/nar" htmlUrl="https://asia.nikkei.com/rss/feed/nar"/>
+      <outline text="Notiser från Europaportalen.se" type="rss" xmlUrl="https://europaportalen.se/rss/notiser" htmlUrl="https://europaportalen.se/"/>
+      <outline text="NPR Topics: News" type="rss" xmlUrl="https://feeds.npr.org/1001/rss.xml" htmlUrl="https://feeds.npr.org/1001/rss.xml"/>
+      <outline text="One America News Network" type="rss" xmlUrl="https://www.oann.com/feed/" htmlUrl="https://www.oann.com/feed/"/>
+      <outline text="rthk.hk - Express News: Local" type="rss" xmlUrl="https://rthk9.rthk.hk/rthk/news/rss/e_expressnews_elocal.xml" htmlUrl="https://rthk9.rthk.hk/rthk/news/rss/e_expressnews_elocal.xml"/>
+      <outline text="Salon.com" type="rss" xmlUrl="https://www.salon.com/feed" htmlUrl="https://www.salon.com/feed/"/>
+      <outline text="The Independent News" type="rss" xmlUrl="https://www.independent.co.uk/news/rss" htmlUrl="https://www.independent.co.uk/news/rss"/>
+      <outline text="World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India" type="rss" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/296589292.cms" htmlUrl="https://timesofindia.indiatimes.com/rssfeeds/296589292.cms"/>
+      <outline text="World news | The Guardian" type="rss" xmlUrl="https://www.theguardian.com/world/rss" htmlUrl="https://www.theguardian.com/world/rss"/>
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Sat, 30 Aug 2025 10:57:44 +0000</dateCreated>
+  </head>
+  <body>
+    <outline text="Books">
+      <outline text="Aestas Book Blog" type="rss" xmlUrl="https://aestasbookblog.com/feed/" htmlUrl="https://aestasbookblog.com/feed/"/>
+      <outline text="A year of reading the world" type="rss" xmlUrl="https://ayearofreadingtheworld.com/feed/" htmlUrl="https://ayearofreadingtheworld.com/feed/"/>
+      <outline text="BOOK RIOT" type="rss" xmlUrl="https://bookriot.com/feed/" htmlUrl="https://bookriot.com/feed/"/>
+      <outline text="Kirkus Reviews" type="rss" xmlUrl="https://www.kirkusreviews.com/feeds/rss/" htmlUrl="https://www.kirkusreviews.com/feeds/rss/"/>
+      <outline text="Page Array – NewInBooks" type="rss" xmlUrl="https://www.newinbooks.com/feed/" htmlUrl="https://www.newinbooks.com/feed/"/>
+      <outline text="Wokeread" type="rss" xmlUrl="https://wokeread.home.blog/feed/" htmlUrl="https://wokeread.home.blog/feed/"/>
+    </outline>
+  </body>
+</opml>
